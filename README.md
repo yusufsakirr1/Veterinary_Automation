@@ -77,7 +77,4 @@ Bu bölümde, Veterinerlik Otomasyon Sistemi'ndeki varlıkların ve ilişkilerin
 
 ![uml](https://github.com/user-attachments/assets/8473aa10-38c1-4b1f-b18d-7cde81ac11f8)
 
-Veterinerlik Otomasyon Sistemi, hayvanların sağlık ve tedavi kayıtlarını yönetmek ve veterinerlerin görevlerini takip etmek için güçlü bir yapı sunmayı amaçlamaktadır.
-
-
 
