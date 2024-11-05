@@ -70,7 +70,6 @@ Veterinerlik otomasyon sisteminin amacı, müşteriler ve onların sahip olduğu
 - **Tedaviler - İyileşen Hayvanlar**: Bir hayvan iyileştiğinde bu kayıt altında tutulur ve her iyileşen hayvan yalnızca bir hayvan kaydına karşılık gelir (1..1).
 
 ---
-Veterinerlik Otomasyon Sistemi, hayvanların sağlık ve tedavi kayıtlarını yönetmek ve veterinerlerin görevlerini takip etmek için güçlü bir yapı sunmayı amaçlamaktadır.
 
 ### Veterinerlik Otomasyonu E-R Diyagramı
 Bu bölümde, Veterinerlik Otomasyon Sistemi'ndeki varlıkların ve ilişkilerin görselleştirildiği E-R (Entity-Relationship) diyagramı yer almaktadır.
