@@ -65,7 +65,8 @@ The Veterinary Automation System aims to manage the treatment processes of anima
 - **Treatments - Medications**: Multiple medications may be used in a treatment process (1..*), and each medication can be used in multiple treatments (1..*).
 - **Treatments - Deceased Animals**: When an animal passes away, it is recorded under this category, and each deceased animal has one corresponding treatment record (1..1).
 - **Treatments - Recovered Animals**: When an animal recovers, it is recorded under this category, and each recovered animal has one corresponding treatment record (1..1).
-- 
+  
+# Veterinary Automation E-R Diagram
 
 ![uml](https://github.com/user-attachments/assets/8473aa10-38c1-4b1f-b18d-7cde81ac11f8)
 
