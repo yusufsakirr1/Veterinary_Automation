@@ -67,6 +67,6 @@ The Veterinary Automation System aims to manage the treatment processes of anima
 - **Treatments - Recovered Animals**: When an animal recovers, it is recorded under this category, and each recovered animal has one corresponding treatment record (1..1).
 - 
 
-![uml](https://github.com/user-attachments/assets/b4f72d2b-1e2c-45cd-bdd4-b42e241954b7)
+![uml](https://github.com/user-attachments/assets/8473aa10-38c1-4b1f-b18d-7cde81ac11f8)
 
 
