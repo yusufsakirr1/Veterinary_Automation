@@ -65,7 +65,7 @@ Veterinerlik otomasyon sisteminin amacı, müşteriler ve onların sahip olduğu
 - **Müşteriler - Hayvanlar**: Bir müşteri bir veya birden fazla hayvana sahip olabilir (1..*) ancak her hayvan yalnızca bir müşteriye aittir (1..1).
 - **Veterinerler - Tedaviler**: Bir veteriner bir veya birden fazla tedavi uygulayabilir (1..*) ancak her tedavi yalnızca bir veteriner tarafından yapılır (1..1).
 - **Hayvanlar - Tedaviler**: Bir hayvan bir veya birden fazla tedavi görebilir (1..*) ancak her tedavi yalnızca bir hayvana uygulanır (1..1).
-- **Tedaviler - İlaçlar**: Bir tedavi sürecinde bir veya birden fazla ilaç kullanılabilir (1..*), bir ilaç birden fazla tedavide kullanılabilir (1..*).
+- **Tedaviler - İlaçlar**: Bir tedavi sürecinde bir veya birden fazla ilaç kullanılabilir (1..*)  ,  bir ilaç birden fazla tedavide kullanılabilir (1..*).
 - **Tedaviler - Ölen Hayvanlar**: Bir hayvan öldüğünde bu kayıt altında tutulur ve her ölen hayvan sadece bir hayvan kaydına karşılık gelir (1..1).
 - **Tedaviler - İyileşen Hayvanlar**: Bir hayvan iyileştiğinde bu kayıt altında tutulur ve her iyileşen hayvan yalnızca bir hayvan kaydına karşılık gelir (1..1).
 
