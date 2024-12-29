@@ -107,3 +107,4 @@ Tedavi sonucunda hayvanın sağlık durumunu belirten kayıtları tutar.
 
 ## Notlar
 Bu gereksinim analizi, **E-R Diyagramı** ile uyumlu olarak hazırlanmıştır. Kardinalite ilişkileri, veritabanı modellemesi sırasında doğru şekilde yapılandırılmalıdır.
+https://github.com/yusufsakirr1/Veterinary_Automation/blob/38fc4e252fec5324520bd1af1ed04df282a47225/uml.jpg
