@@ -104,5 +104,3 @@ Tedavi sonucunda hayvanın sağlık durumunu belirten kayıtları tutar.
 * **Tedavi Sonucu** ve **Hayvanlar**: Her hayvanın bir tedavi sonucu olabilir (1..1).
 
 ---
-
-uml.jpg
