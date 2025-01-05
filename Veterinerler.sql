@@ -1,0 +1,16 @@
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[Veterinerler](
+	[Veteriner_ID] [int] IDENTITY(1,1) NOT NULL,
+	[VeterinerAdi] [varchar](50) NOT NULL,
+	[VeterinerSoyadi] [varchar](50) NOT NULL,
+	[VeterinerTelefon] [varchar](15) NULL
+) ON [PRIMARY]
+GO
+ALTER TABLE [dbo].[Veterinerler] ADD PRIMARY KEY CLUSTERED 
+(
+	[Veteriner_ID] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, SORT_IN_TEMPDB = OFF, IGNORE_DUP_KEY = OFF, ONLINE = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+GO
